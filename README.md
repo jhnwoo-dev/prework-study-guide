@@ -2,7 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 This is a study guide devoted to the the prework of the UW Coding Bootcamp. This will be used as a project to return to and review content that was learned during the prework. This project will also be used as a reference throughout the bootcamp to create a solid foundation for my coding career. This project will provide a resource for coding basics that may be remitted in the future as some of the content from the prework may not be used consistently. Some of the content that was learned in this project were basics of HTML, CSS, Git, and JavaScript.
 
@@ -21,11 +20,7 @@ N/A
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+Please refer to the LICENSE in the repo.
 
 ## Badges
 
